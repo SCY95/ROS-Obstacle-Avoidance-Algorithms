@@ -1,0 +1,2 @@
+m2wr_description:two-wheeled-robot-motion-planning
+-DCATKIN_DEVEL_PREFIX=/home/scy95/ecs_ws/devel -DCMAKE_INSTALL_PREFIX=/home/scy95/ecs_ws/install -G Unix Makefiles
